@@ -1,3 +1,5 @@
 runs
 runs_ucf_mini
 runs_ucf_fullvideo
+runs_ucf_attnmil
+features_r2plus1d
