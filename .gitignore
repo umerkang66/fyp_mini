@@ -5,3 +5,4 @@ runs_ucf_attnmil
 features_r2plus1d
 runs_ucf_clipmil
 features_clip_vitb16
+features_clip_vitb16_ft
