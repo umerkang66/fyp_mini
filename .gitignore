@@ -7,3 +7,8 @@ runs_ucf_clipmil
 features_clip_vitb16
 features_clip_vitb16_ft
 runs_eda
+runs_ucf_videomae
+features_videomae_base_k400
+runs_ucf_clipl14mil
+features_clip_vitl14
+runs_ucf_clipl14mil_nestedcv
